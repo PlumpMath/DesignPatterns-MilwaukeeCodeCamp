@@ -1,0 +1,38 @@
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.csprojResolveAssemblyReference.cache
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.abstractions.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.Tests.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.Tests.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.xml
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.xml
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.abstractions.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.Tests.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.Tests.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\PaymentProcessor.ChainOfResponsibility.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.assert.xml
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.core.xml
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.csprojResolveAssemblyReference.cache
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.dll
+C:\dev\talks\design-patterns\PaymentProcessor.ChainOfResponsibility\PaymentProcessor.ChainOfResponsibility.Tests\obj\Debug\PaymentProcessor.ChainOfResponsibility.Tests.pdb

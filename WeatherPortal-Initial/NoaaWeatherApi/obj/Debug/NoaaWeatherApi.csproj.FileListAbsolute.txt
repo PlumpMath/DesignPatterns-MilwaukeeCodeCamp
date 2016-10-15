@@ -1,0 +1,7 @@
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\bin\Debug\NoaaWeatherApi.dll
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\bin\Debug\NoaaWeatherApi.pdb
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\bin\Debug\Newtonsoft.Json.dll
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\bin\Debug\Newtonsoft.Json.xml
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\obj\Debug\NoaaWeatherApi.csprojResolveAssemblyReference.cache
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\obj\Debug\NoaaWeatherApi.dll
+C:\dev\talks\design-patterns\WeatherPortal\NoaaWeatherApi\obj\Debug\NoaaWeatherApi.pdb
