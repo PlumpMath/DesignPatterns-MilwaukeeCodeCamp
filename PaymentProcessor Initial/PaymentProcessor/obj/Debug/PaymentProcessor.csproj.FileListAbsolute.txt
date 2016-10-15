@@ -1,0 +1,5 @@
+C:\data\Presentations\Design Patterns\PaymentProcessor\PaymentProcessor\obj\Debug\PaymentProcessor.csprojResolveAssemblyReference.cache
+C:\data\Presentations\Design Patterns\PaymentProcessor\PaymentProcessor\bin\Debug\PaymentProcessor.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor\PaymentProcessor\bin\Debug\PaymentProcessor.pdb
+C:\data\Presentations\Design Patterns\PaymentProcessor\PaymentProcessor\obj\Debug\PaymentProcessor.dll
+C:\data\Presentations\Design Patterns\PaymentProcessor\PaymentProcessor\obj\Debug\PaymentProcessor.pdb
